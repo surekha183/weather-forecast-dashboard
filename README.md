@@ -31,7 +31,7 @@ Below is a snapshot of the Power BI dashboard:
 - Weather_Dashboard.pbix  
 
 ## 📡 Data Source
-The data used in this project is sourced from an external website providing real-time weather information.  
+The data used in this project is sourced from a weather API website [weatherapi.com] providing real-time weather information for multiple cities. 
 The dashboard is based on one-week (7 days) data, and the dataset is not included due to dynamic updates.
 
 ## 🚀 Outcome
