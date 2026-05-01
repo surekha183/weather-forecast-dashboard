@@ -1,7 +1,7 @@
 # 🌦️ Weather Forecast Dashboard (Power BI)
 
 ## 📊 Overview
-This project is a Power BI dashboard built to analyze weather data such as temperature, humidity, and air quality (PM10) across multiple cities over a one-week period.
+This project is a Power BI dashboard developed to analyze weather data such as temperature, humidity, and air quality (PM10) across multiple cities over a one-week period.
 
 ## 🎯 Objective
 To transform short-term (7-day) weather data into meaningful insights using time-series analysis and visualization techniques.
@@ -31,11 +31,16 @@ Below is a snapshot of the Power BI dashboard:
 - Weather_Dashboard.pbix  
 
 ## 📡 Data Source
-The data used in this project is sourced from a weather API website [weatherapi.com] providing real-time weather information for multiple cities. 
+Data Source: WeatherAPI (https://www.weatherapi.com) providing real-time weather information for multiple cities. 
 The dashboard is based on one-week (7 days) data, and the dataset is not included due to dynamic updates.
 
 ## 🚀 Outcome
 This dashboard provides a clear understanding of short-term weather trends and enables comparative analysis across cities.
+
+## ▶️ How to Use
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Explore the dashboard visuals  
 
 ## 👩‍💻 Created by
 Surekha Vaitla
